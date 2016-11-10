@@ -1,0 +1,18 @@
+{
+  "name": "react-native-remote-audio",
+  "version": "0.0.1",
+  "description": "A react-native library for playing remote audio",
+  "main": "index.js",
+  "author": "Johan West <hello@johanwest.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrwest808/react-native-remote-audio.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.37.0"
+  },
+  "devDependencies": {
+    "react-native": "^0.37.0"
+  }
+}
