@@ -32,4 +32,4 @@ class Audio {
   }
 }
 
-export default Audio
+export default new Audio()
